@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">odin\'s eye</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">500182171732-9pp7b6d75efqqfo3tp5to9j9rfct9n5j.apps.googleusercontent.com</string>
+    <string name="ansh_chawla">             Ansh Chawla\n99107 13737</string>
+    <string name="ishaan">             Ishaan Sharma\n                                          95081 46626</string>
+    <string name="muditc">             Mudit Choudhary\n                                          96724 67580</string>
+    <string name="hiya">             Hiya Jain\n                                          97021 34550</string>
+    <string name="guneeth">             Palakurthy Guneeth\n                                          79933 34550</string>
+    <string name="muditd">             Mudit Dwivedi\n                                          63068 97427</string>
+    <string name="praneel">             Praneel Dev\n                                          84477 13620</string>
+    <string name="pragyan">             Pragyan Srivastava\n                                          85649 58409</string>
+    <string name="jivya">             Jivya Jain\n                                           82096 88824</string>
+    <string name="priyanshi">             Priyanshi Jain\n                                          91191 47959</string>
+
+</resources>

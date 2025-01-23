@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500182171732",
+    "firebase_url": "https://odin-s-eye-navigation-default-rtdb.firebaseio.com",
+    "project_id": "odin-s-eye-navigation",
+    "storage_bucket": "odin-s-eye-navigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500182171732:android:aaefd10fad86fd50aaedc1",
+        "android_client_info": {
+          "package_name": "com.odinseyenavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500182171732-mph6s4eofbgrbr2ud3ktr77hjrr55oci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odinseyenavigation",
+            "certificate_hash": "728f15e45ed416ee57e625a9d8b2396cefca2201"
+          }
+        },
+        {
+          "client_id": "500182171732-9pp7b6d75efqqfo3tp5to9j9rfct9n5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUh3Z3ABZNhyft-FO_5lPCAB0pI3AHA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500182171732-9pp7b6d75efqqfo3tp5to9j9rfct9n5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

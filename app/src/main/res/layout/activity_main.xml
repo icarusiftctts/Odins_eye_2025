@@ -20,13 +20,14 @@
 
     <ImageView
         android:id="@+id/main_plinth"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="10dp"
+        android:layout_width="148dp"
+        android:layout_height="69dp"
+        android:layout_marginEnd="70dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintEnd_toStartOf="@+id/main_astro_insta"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/plithfigma" />
+        app:srcCompat="@drawable/plinth_2025" />
 
     <LinearLayout
         android:id="@+id/main_astro_insta"
